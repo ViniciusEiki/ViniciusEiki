@@ -1,81 +1,99 @@
-# 🧑‍💻 Vinicius Eiki  
-### Estagiário de Infraestrutura de TI | Microsoft Azure, Intune & Entra ID  
-São Paulo, Brasil 🇧🇷  
-[LinkedIn](https://www.linkedin.com/in/viniciuseiki) · [E-mail](mailto:eikifranca20@gmail.com)
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="120px" alt="Laptop animation">
+</p>
+
+<h1 align="center">👋 Olá, eu sou o Vinicius Eiki</h1>
+<h3 align="center">🚀 Estagiário de Infraestrutura de TI | Microsoft Azure | Intune | Entra ID</h3>
 
 ---
 
-## 🛰️ Sobre mim
-
-Sou estudante de **Engenharia da Computação na FIAP** e atualmente **Estagiário de Infraestrutura de TI na YOU.ON ENERGIA**.  
-Atuo na administração de **Microsoft Intune, Azure e Entra ID**, com foco em **segurança, otimização e compliance** de ambientes corporativos.
-
-Sou apaixonado por tecnologia e inovação — sempre buscando melhorar processos e ampliar meus conhecimentos em **Cloud Computing, Segurança da Informação e Gestão de Infraestrutura**.
-
-🎯 **Objetivo:** Crescer como Analista de Suporte e evoluir para áreas de **Cloud e Segurança Cibernética**.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=Infraestrutura+segura+%26+automatizada.;Cloud+%7C+Security+%7C+Monitoring.;Apaixonado+por+tecnologia+e+inova%C3%A7%C3%A3o.">
+</p>
 
 ---
 
-## ⚙️ Experiência Profissional
+### 🛰️ Sobre mim
 
-### 🏢 YOU.ON ENERGIA S.A.  
-**Estagiário de Infraestrutura de TI**  
-📅 Março de 2025 — Presente | São Paulo, Brasil  
+Sou estudante de **Engenharia da Computação na FIAP** e **Estagiário de Infraestrutura de TI na YOU.ON ENERGIA**, com foco em:
+- ☁️ **Microsoft Azure**, **Intune** e **Entra ID**
+- 🔐 **Segurança**, **Automação** e **Compliance**
+- 🖥️ **Gestão e suporte técnico** em ambientes corporativos
 
-- Gerenciamento de mais de **50 dispositivos corporativos via Microsoft Intune (MDM)**.  
-- Apoio à administração de **Microsoft Azure** e **Entra ID**, garantindo **segurança e conformidade**.  
-- **Manutenção preventiva e corretiva** de redes e servidores locais.  
-- Atendimento a chamados e **suporte técnico** a usuários internos.  
-
----
-
-## 🎓 Formação Acadêmica
-
-🎓 **FIAP — Faculdade de Informática e Administração Paulista**  
-**Bacharelado em Engenharia da Computação**  
-📅 Fevereiro de 2024 — Novembro de 2028  
+💡 Gosto de criar soluções que otimizam o trabalho e fortalecem a segurança da infraestrutura.  
+🎯 Meu objetivo é evoluir para as áreas de **Cloud Computing** e **Segurança Cibernética**.
 
 ---
 
-## 🧩 Competências Técnicas
+### ⚙️ Tecnologias e Ferramentas
 
-💻 **Infraestrutura e Nuvem:**  
-Microsoft Azure · Microsoft Intune · Entra ID · Windows Server · Active Directory  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,windows,powershell,linux,docker,kubernetes,terraform,python" />
+</p>
 
-🔐 **Segurança e Monitoramento:**  
-Zabbix (em aprendizado) · Políticas de Acesso · Hardening · Compliance  
-
-🧠 **Conceitos de Rede:**  
-VLANs · DNS · Roteamento · IPv6  
-
----
-
-## 📜 Certificações
-
-- **Redes: dos conceitos iniciais à criação de uma intranet**  
-- **Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet**  
-- **Redes: implementando roteamento, DNS e IPv6**
-
-📘 Estudando para:
-- **Microsoft Certified: AZ-900 (Azure Fundamentals)**  
-- **Zabbix Specialist**  
-- **Microsoft 365 Administrator**
+📡 **Infraestrutura e Cloud:** Azure · Intune · Entra ID · Windows Server  
+🔐 **Segurança e Monitoramento:** Zabbix (em aprendizado) · Compliance · Hardening  
+🌐 **Redes:** VLANs · DNS · IPv6 · Roteamento  
 
 ---
 
-## 📈 Em desenvolvimento
+### 🧠 Certificações & Objetivos
 
-- 🧰 Criação de automações para Intune e Azure via PowerShell  
-- ☁️ Aprimoramento em Cloud Management e Security  
-- 🔒 Estudos voltados à Segurança Cibernética  
+🎓 **Certificações concluídas:**
+- Redes: dos conceitos iniciais à criação de uma intranet  
+- Redes: VLANs, políticas de acesso e conexão com internet  
+- Redes: roteamento, DNS e IPv6  
 
----
-
-## 🌐 Contatos
-
-📩 **E-mail:** [eikifranca20@gmail.com](mailto:eikifranca20@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/viniciuseiki](https://www.linkedin.com/in/viniciuseiki)  
+📘 **Estudando para:**
+- Microsoft AZ-900 · Zabbix Specialist · Microsoft 365 Administrator  
 
 ---
 
-> “Segurança e confiabilidade não são apenas metas — são hábitos diários.”  
+### 💼 Experiência
+
+🏢 **YOU.ON ENERGIA S.A.**  
+*Estagiário de Infraestrutura de TI*  
+📍 São Paulo — Março/2025 até o momento  
+
+- Gerenciamento de +50 dispositivos via **Intune (MDM)**  
+- Apoio na administração de **Azure e Entra ID**  
+- Suporte técnico e manutenção de servidores e redes  
+- Foco em **segurança, otimização e automação**
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vinieiki&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinieiki&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 🎯 Atualmente explorando
+
+- ☁️ Automação em Azure & Intune via PowerShell  
+- 🔒 Segurança e compliance em nuvem híbrida  
+- ⚙️ Monitoramento com Zabbix & Log Analytics  
+
+---
+
+### 🌐 Onde me encontrar
+
+<p align="center">
+  <a href="mailto:eikifranca20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eikifranca20%40gmail.com-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/viniciuseiki">
+    <img src="https://img.shields.io/badge/LinkedIn-Vinicius%20Eiki-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100px"><br/>
+  <i>“Segurança e confiabilidade não são metas — são hábitos diários.”</i>
+</p>
