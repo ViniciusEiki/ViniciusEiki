@@ -1,98 +1,81 @@
-<!-- Banner animado (troque pela sua imagem/GIF preferida) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" alt="Super Mario Banner" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=F7B93E&center=true&vCenter=true&width=680&lines=It's-a+me,+SEU_NOME!;Infra+%26+Seguran%C3%A7a+|+Power-Ups+%26+Hardening" alt="typing"/>
-</p>
+# 🧑‍💻 Vinicius Eiki  
+### Estagiário de Infraestrutura de TI | Microsoft Azure, Intune & Entra ID  
+São Paulo, Brasil 🇧🇷  
+[LinkedIn](https://www.linkedin.com/in/viniciuseiki) · [E-mail](mailto:eikifranca20@gmail.com)
 
 ---
 
-# 🍄 SEU_NOME — Engenheiro de Infra & Segurança (Modo Mario)
+## 🛰️ Sobre mim
 
-Olá! Sou SEU_NOME — construo *mundos* (infraestrutura) seguros, automatizados e resilientes — estilo *World 1-1*, mas pronto pra chefões.  
-Aqui você encontra meus power-ups: IaC, automação, hardening e pipelines seguros.
+Sou estudante de **Engenharia da Computação na FIAP** e atualmente **Estagiário de Infraestrutura de TI na YOU.ON ENERGIA**.  
+Atuo na administração de **Microsoft Intune, Azure e Entra ID**, com foco em **segurança, otimização e compliance** de ambientes corporativos.
 
----
+Sou apaixonado por tecnologia e inovação — sempre buscando melhorar processos e ampliar meus conhecimentos em **Cloud Computing, Segurança da Informação e Gestão de Infraestrutura**.
 
-## 🪙 Power-Ups (Skills)
-`Terraform`, `Ansible`, `Kubernetes`, `Docker`, `AWS`, `GCP`, `Azure`, `Vault`, `Prometheus`, `Grafana`, `ELK`, `GitHub Actions`, `SAST/DAST`
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=terraform,ansible,kubernetes,docker,aws,gcp,azure,python" alt="skills" />
-</p>
+🎯 **Objetivo:** Crescer como Analista de Suporte e evoluir para áreas de **Cloud e Segurança Cibernética**.
 
 ---
 
-## 🚀 Destaque — Projetos (Worlds)
+## ⚙️ Experiência Profissional
 
-### 🏰 World 1-1 — Infra-Harden
-**Descrição:** Módulos Terraform prontos com políticas de segurança (IAM hardening, logging e alertas).  
-**Tecnologias:** Terraform, Sentinel/OPAL, CloudTrail, GuardDuty.  
-🔗 `https://github.com/SEU_USUARIO/infra-harden`
+### 🏢 YOU.ON ENERGIA S.A.  
+**Estagiário de Infraestrutura de TI**  
+📅 Março de 2025 — Presente | São Paulo, Brasil  
 
-### 🔧 World 2-1 — CICD-Segurança
-**Descrição:** Pipeline GitHub Actions que roda SAST, DAST, container scanning e deploy aprovado por gate de segurança.  
-**Tecnologias:** GitHub Actions, Trivy, Bandit, OWASP ZAP.  
-🔗 `https://github.com/SEU_USUARIO/cicd-seguranca`
-
-### 🧭 World Bowser — Audit & Response
-**Descrição:** Scripts Python para auditoria de configuração e playbook de resposta (simples SOAR).  
-**Tecnologias:** Python, Elastic Stack, alertas via Slack/Teams.  
-🔗 `https://github.com/SEU_USUARIO/infra-audit`
+- Gerenciamento de mais de **50 dispositivos corporativos via Microsoft Intune (MDM)**.  
+- Apoio à administração de **Microsoft Azure** e **Entra ID**, garantindo **segurança e conformidade**.  
+- **Manutenção preventiva e corretiva** de redes e servidores locais.  
+- Atendimento a chamados e **suporte técnico** a usuários internos.  
 
 ---
 
-## 🔒 Segurança — Rotinas e Boas Práticas (Power-Up Checklist)
+## 🎓 Formação Acadêmica
 
-- [x] IaC com revisão e políticas (policy-as-code)  
-- [x] Secrets gerenciados por HashiCorp Vault / Secrets Manager  
-- [x] Scans automáticos em PRs (SAST/DAST/container)  
-- [x] Least privilege aplicado em identities/roles  
-- [x] Monitoramento: métricas + logs + alertas (Prometheus + Grafana + ELK)  
-- [x] Backups criptografados e testes de restauração periódicos  
-- [x] CI gates antes do deploy — política de aprovação e RBAC
+🎓 **FIAP — Faculdade de Informática e Administração Paulista**  
+**Bacharelado em Engenharia da Computação**  
+📅 Fevereiro de 2024 — Novembro de 2028  
 
 ---
 
-## 🧩 Badges & Estatísticas
+## 🧩 Competências Técnicas
 
-<p align="center">
-  <!-- Troque SEU_USUARIO -->
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Coins+Collected&color=yellow&style=flat-square" alt="visitors"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical&hide_border=true" alt="stats"/>
-</p>
+💻 **Infraestrutura e Nuvem:**  
+Microsoft Azure · Microsoft Intune · Entra ID · Windows Server · Active Directory  
 
----
+🔐 **Segurança e Monitoramento:**  
+Zabbix (em aprendizado) · Políticas de Acesso · Hardening · Compliance  
 
-## 📚 Ferramentas & Playbooks (Links Rápidos)
-
-- `terraform-modules/` — módulos IaC com hardening  
-- `ansible/` — playbooks de configuração segura  
-- `pipelines/` — templates para GitHub Actions com gates de segurança  
-- `scripts/audit/` — scripts Python para checagens e relatórios
+🧠 **Conceitos de Rede:**  
+VLANs · DNS · Roteamento · IPv6  
 
 ---
 
-## 🎯 Objetivos & Missão
+## 📜 Certificações
 
-> Construir infra escalável e segura que resista a falhas e ataques — automatizada, auditável e testável.  
-> "Segurança é um power-up que você usa todo dia."
+- **Redes: dos conceitos iniciais à criação de uma intranet**  
+- **Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet**  
+- **Redes: implementando roteamento, DNS e IPv6**
 
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: https://www.linkedin.com/in/seunome  
-- ✉️ Email: seu.email@dominio.com  
-- 🐦 Twitter: @seutwitter
+📘 Estudando para:
+- **Microsoft Certified: AZ-900 (Azure Fundamentals)**  
+- **Zabbix Specialist**  
+- **Microsoft 365 Administrator**
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/4Zo41lhzKt6iZ8xff9/giphy.gif" alt="Mario Flag" width="200"/>
-  <br/>
-  <i>World 1-1 Completed — Vamos para o próximo desafio!</i>
-</p>
+## 📈 Em desenvolvimento
+
+- 🧰 Criação de automações para Intune e Azure via PowerShell  
+- ☁️ Aprimoramento em Cloud Management e Security  
+- 🔒 Estudos voltados à Segurança Cibernética  
+
+---
+
+## 🌐 Contatos
+
+📩 **E-mail:** [eikifranca20@gmail.com](mailto:eikifranca20@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/viniciuseiki](https://www.linkedin.com/in/viniciuseiki)  
+
+---
+
+> “Segurança e confiabilidade não são apenas metas — são hábitos diários.”  
